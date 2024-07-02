@@ -1,2 +1,1 @@
-# Stich-art.github.io
-Сайт-визитка
+# project.github.io
